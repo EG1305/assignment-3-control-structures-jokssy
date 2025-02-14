@@ -1,2 +1,3 @@
-# AssignmentRoot
-Used for assignment submissions
+Assignment 3 turn in
+
+All assignment 3 programs are here!
